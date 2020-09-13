@@ -1,3 +1,17 @@
+Apocalypse is coming - but not everywhere at the same time
+Thanks to us you will know places to avoid at all costs if you don't want to die from
+- covid 19
+- earthquakes
+- wildfires
+- traffic
+- pollution
+- high rents
+- snow storms
+- hurricanes
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

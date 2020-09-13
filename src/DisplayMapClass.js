@@ -38,7 +38,7 @@ export class DisplayMapClass extends React.Component {
 
     // Create the default UI components to allow the user to interact with them
     // This variable is unused
-    // const ui = H.ui.UI.createDefault(map, defaultLayers);
+    const ui = H.ui.UI.createDefault(map, defaultLayers);
 
 
     this.setState({ map });
